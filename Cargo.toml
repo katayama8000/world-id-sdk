@@ -1,0 +1,14 @@
+[package]
+name = "world_id_sdk"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+authors = ["katayama8000 <https://github.com/katayama8000>"]
+description = "A SDK for World ID"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/katayama8000/world-id-sdk"
+keywords = ["world-id", "sdk", "api"]
+categories = ["api-bindings", "web-programming"]
+
+
+[dependencies]
